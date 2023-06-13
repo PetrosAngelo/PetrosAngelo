@@ -1,5 +1,5 @@
 <img src="https://github.com/PetrosAngelo/PetrosAngelo/blob/main/gif.gif" alt="MasterHead" width="1092" height="392">
-<h1 align="center">Petros Angelo</h1>
+<h1 align="center">Greetings visitors!</h1>
 <h3 align="center">A passionate engineering student from Greece!</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oh5jyjwkpj6txvalz4vgt0xg1x80qm0oc37p81x5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently studying as an Engineer.
